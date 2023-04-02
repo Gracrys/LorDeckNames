@@ -75,7 +75,7 @@ var sprites = [
 
      new Sprite('Hallowed', '', 'Hallowed', 'img/sprites/Hallowed.png', 'Keyword'),
      new Sprite('Evolve', '', 'Evolve', 'img/sprites/Evolve.png', 'Keyword'),
-      new Sprite('Brash', '', 'Brash', 'img/sprites/Brash.png', 'Keyword'),
+      new Sprite('Brash', '', 'Brash', 'img/sprites/Brash.svg', 'Keyword'),
      new Sprite('Equipment', '', 'Equipment', 'img/sprites/Equipment.png', 'Keyword'),
          new Sprite('Jhin', '', 'Jhin', 'img/sprites/Jhin.png', 'Origin'),
     new Sprite('Bard', '', 'Bard', 'img/sprites/Bard.png', 'Origin'),
