@@ -75,6 +75,7 @@ var sprites = [
 
      new Sprite('Hallowed', '', 'Hallowed', 'img/sprites/Hallowed.png', 'Keyword'),
      new Sprite('Evolve', '', 'Evolve', 'img/sprites/Evolve.png', 'Keyword'),
+      new Sprite('Brash', '', 'Brash', 'img/sprites/Brash.png', 'Keyword'),
      new Sprite('Equipment', '', 'Equipment', 'img/sprites/Equipment.png', 'Keyword'),
          new Sprite('Jhin', '', 'Jhin', 'img/sprites/Jhin.png', 'Origin'),
     new Sprite('Bard', '', 'Bard', 'img/sprites/Bard.png', 'Origin'),
@@ -84,7 +85,7 @@ var sprites = [
     new Sprite('Varus', '', 'Varus', 'img/sprites/Varus.png', 'Origin'),
         new Sprite('Ryze', '', 'Ryze', 'img/sprites/Ryze.png', 'Origin'),
     new Sprite('Aatrox', '', 'Aatrox', 'img/sprites/Aatrox.png', 'Origin'),
-    new Sprite('PoroKing', '', 'PoroKing', 'img/sprites/PoroKing.png', 'Origin'),
+    // new Sprite('PoroKing', '', 'PoroKing', 'img/sprites/PoroKing.png', 'Origin'),
     // new Sprite('Void', 2, '', 'img/sprites/Void.png', 'Region'),
     // new Sprite('Zaun', 20, '', 'img/sprites/Zaun.png','Region'),
     // new Sprite('Bandle city', 10, '', 'img/sprites/BandleCity.png', 'Region'),
