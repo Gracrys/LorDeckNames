@@ -78,6 +78,10 @@ var sprites = [
     new Sprite('Evolve', '', 'Evolve', 'img/sprites/Evolve.png', 'Keyword'),
     new Sprite('Brash', '', 'Brash', 'img/sprites/Brash.svg', 'Keyword'),
     new Sprite('Equipment', '', 'Equipment', 'img/sprites/Equipment.png', 'Keyword'),
+    new Sprite('Elemental Skill', '', 'ElementalSkill', 'img/sprites/ElementalSkill.png', 'Card Effect'),
+    new Sprite('Curse', '', 'Curse', 'img/sprites/Curse.png', 'Keyword'),
+    new Sprite('Deathless', '', 'Deathless', 'img/sprites/Deathless.png', 'Keyword'),
+
     new Sprite('Jhin', '', 'Jhin', 'img/sprites/Jhin.png', 'Origin'),
     new Sprite('Bard', '', 'Bard', 'img/sprites/Bard.png', 'Origin'),
     new Sprite('Evelynn', '', 'Evelynn', 'img/sprites/Evelynn.png', 'Origin'),
@@ -88,10 +92,8 @@ var sprites = [
     new Sprite('Aatrox', '', 'Aatrox', 'img/sprites/Aatrox.png', 'Origin'),
     new Sprite('PoroKing', '', 'PoroKing', 'img/sprites/PoroKing.png', 'Origin'),
     new Sprite('Neeko', '', 'Neeko', 'img/sprites/Neeko.png', 'Region'),
-    new Sprite('Elemental Skill', '', 'ElementalSkill', 'img/sprites/ElementalSkill.png', 'Card Effect'),
     new Sprite('Elder Dragon', '', 'ElderDragon', 'img/sprites/ElderDragon.png', 'Region'),
-    new Sprite('Curse', '', 'Curse', 'img/sprites/Curse.png', 'Keyword'),
-    new Sprite('Deathless', '', 'Deathless', 'img/sprites/Deathless.png', 'Keyword'),
+  
     // new Sprite('Void', 2, '', 'img/sprites/Void.png', 'Region'),
     // new Sprite('Zaun', 20, '', 'img/sprites/Zaun.png','Region'),
     // new Sprite('Bandle city', 10, '', 'img/sprites/BandleCity.png', 'Region'),
